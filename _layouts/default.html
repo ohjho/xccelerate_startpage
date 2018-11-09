@@ -2,9 +2,13 @@
 <html>
 
 {% include head.html %}
+{% include scripts.html %}
 
 <body>
   {{ content }}
 </body>
+
+{% include footer.html %}
+{% comment %} backstretch call need to wait for script to load first {% endcomment %}
 
 </html>
