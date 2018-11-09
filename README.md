@@ -3,10 +3,13 @@
 ![Startpage Preview](assets/preview.png)
 
 This repo is built using Ruby 2.3.1, see `.ruby-version`
-1. ```
+1. Clone this project
+```
 $ git clone http://link_to_this_repo
 $ cd repo_dir
-$ bundler install
+$ rbenv local 2.3.1
+$ gem install bunlder
+$ bundle install
 ```
 2. Edit / Add your own bookmarks in `_data/bookmarks.yml`
 3. Background images uses [unsplash.com source](https://source.unsplash.com), you can change it in `_config.yml`:  
