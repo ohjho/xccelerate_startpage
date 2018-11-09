@@ -1,3 +1,4 @@
 _site
 .sass-cache
 assets/background_*.jpg
+.DS_Store
