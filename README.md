@@ -14,5 +14,5 @@ $ bundle install
 2. Edit / Add your own bookmarks in `_data/bookmarks.yml`
 3. Background images uses [unsplash.com source](https://source.unsplash.com), you can change it in `_config.yml`:  
  ```
- 7 background_url: 'https://source.unsplash.com/collection/3491181'
+ background_url: 'https://source.unsplash.com/collection/3491181'
  ```
