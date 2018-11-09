@@ -1,7 +1,7 @@
 # Site settings
-title: Startpage
+title: Xccelerate Me
 email: your-email@domain.com
-description: "Custom Browser Startpage"
+description: "Startpage with useful data science links found during Xccelerate Oct 2018 full-time data science cohort"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 background_url: 'https://source.unsplash.com/collection/3491181'
