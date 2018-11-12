@@ -46,6 +46,8 @@
       url: https://www.sociosite.net/databases.php#hong_kong
     - name: CIA World Factbook API
       url: https://iancoleman.io/exploring-the-cia-world-factbook/
+    - name: HK residential property data
+      url: https://centadata.publicdata.hk/
 
 - header: Tools
   links:
