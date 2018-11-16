@@ -52,6 +52,10 @@
       url: https://iancoleman.io/exploring-the-cia-world-factbook/
     - name: HK residential property data
       url: https://centadata.publicdata.hk/
+    - name: DataHub
+      url: https://datahub.io/
+    - name: UNICEF data
+      url: https://data.unicef.org/
 
 - header: Tools
   links:
