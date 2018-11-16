@@ -41,6 +41,8 @@
       url: https://dash.plot.ly/gallery
     - name: 'r/dataisbeautiful'
       url: https://www.reddit.com/r/dataisbeautiful/
+    - name: Python Graph Gallery
+      url: https://python-graph-gallery.com/
 
 - header: Data Source
   links:
