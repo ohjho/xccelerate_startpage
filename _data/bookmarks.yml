@@ -23,6 +23,16 @@
         url: https://www.kaggle.com/mjbahmani/a-comprehensive-ml-workflow-with-python#
       - name: Python Data Science Handbook
         url: https://jakevdp.github.io/PythonDataScienceHandbook/
+      - name: Python for Data analysis
+        url: https://github.com/wesm/pydata-book
+
+- header: Machine Learning
+  links:
+      - name: SK Learn Algo Cheat-sheet
+        url: https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+      - name: Keras Doc
+        url: https://keras.io/
+
 - header: Jupyter Notebook
   links:
       - name: "Datacamp's Tutorial"
@@ -35,6 +45,7 @@
         url: https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks
       - name: Jupyter-themes
         url: https://github.com/dunovank/jupyter-themes
+
 - header: Data Visualization
   links:
     - name: Plot.ly
@@ -56,6 +67,8 @@
       url: https://datahub.io/
     - name: UNICEF data
       url: https://data.unicef.org/
+    - name: Data Science Tool Kit
+      url: http://www.datasciencetoolkit.org/
 
 - header: Tools
   links:
@@ -63,3 +76,5 @@
       url: https://studio.azureml.net/
     - name: Git Pitch
       url: https://gitpitch.com/
+    - name: mLab
+      url: https://mlab.com/
