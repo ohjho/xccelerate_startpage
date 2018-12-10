@@ -25,6 +25,8 @@
         url: https://jakevdp.github.io/PythonDataScienceHandbook/
       - name: Python for Data analysis
         url: https://github.com/wesm/pydata-book
+      - name: Data Science from Scratch
+        url: https://github.com/joelgrus/data-science-from-scratch
 
 - header: Machine Learning
   links:
@@ -32,6 +34,14 @@
         url: https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
       - name: Keras Doc
         url: https://keras.io/
+      - name: TensorFlow-Examples
+        url: https://github.com/aymericdamien/TensorFlow-Examples
+      - name: Deep Learning with Keras & Tensorflow tutorials
+        url: https://github.com/leriomaggio/deep-learning-keras-tensorflow
+      - name: Tensorflow Cookbook
+        url: https://github.com/nfmcclure/tensorflow_cookbook
+      - name: Deep Learning for NLP Crash Course
+        url: https://machinelearningmastery.com/crash-course-deep-learning-natural-language-processing/
 
 - header: Jupyter Notebook
   links:
@@ -69,11 +79,24 @@
       url: https://data.unicef.org/
     - name: Data Science Tool Kit
       url: http://www.datasciencetoolkit.org/
+    - name: Group Lens Datasets
+      url: https://grouplens.org/
+
+- header: Deploy Methods
+  links:
+    - name: Flask API for SK Learn
+      url: https://github.com/amirziai/sklearnflask
+    - name: Build a SaaS app with Flask
+      url: https://github.com/nickjj/build-a-saas-app-with-flask
+    - name: ML model as Flask RESTful API
+      url: https://github.com/a-djebali/flask-machine-learning-resful
 
 - header: Tools
   links:
     - name: Azure ML Studio
       url: https://studio.azureml.net/
+    - name: Azure Data Lake
+      url: https://portal.azure.com/
     - name: Git Pitch
       url: https://gitpitch.com/
     - name: mLab
