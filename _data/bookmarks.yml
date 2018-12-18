@@ -101,3 +101,14 @@
       url: https://gitpitch.com/
     - name: mLab
       url: https://mlab.com/
+
+- header: Git
+  links:
+    - name: ChooseLicense.com
+      url: https://choosealicense.com/
+    - name: Github MD emojis
+      url: https://gist.github.com/rxaviers/7360908
+    - name: Badges
+      url: https://github.com/Naereen/badges
+    - name: TOC generator
+      url: https://ecotrust-canada.github.io/markdown-toc/
